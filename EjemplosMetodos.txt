@@ -1,0 +1,36 @@
+Si tiene retorno se recibe con variables
+//Metodo que retorna valor sin parametros
+int Suma(){
+int n1=3;
+int n1=3;
+int r;
+r=n1+n2;
+return r;
+}
+int variable;
+variable=Suma();
+
+//Metodo que no retorna valor sin parametros
+void Sum(){
+int n1=3;
+int n2=3;
+int r;
+r=n1+n2;
+S.o.L(r);
+}
+
+//Metodo con retorno y con parametros
+double suma(double a, double b){
+double r;
+r=a+b;
+return r;
+}
+variable = suma(4,8);
+
+//metodo sin retorno y con parametros
+void suma(int a, int b){
+int r; 
+r=a+b;
+return r;
+}
+.suma(4,8);
